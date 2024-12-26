@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
-* Студент: [Екатерина Рудакова](https://up.htmlacademy.ru/ecmascript-individual/2/user/1486905).
-* Наставник: `Неизвестно`.
+- Студент: [Екатерина Рудакова](https://up.htmlacademy.ru/ecmascript-individual/2/user/1486905).
+- Наставник: `?g`.
 
 ---
 
