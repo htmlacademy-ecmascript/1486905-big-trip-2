@@ -2,7 +2,7 @@
 
 - Студент: [Екатерина Рудакова](https://up.htmlacademy.ru/ecmascript-individual/2/user/1486905).
 
-- # Наставник: `?`.
+- Наставник: `Кто-то`.
 
 _Не удаляйте и не изменяйте папки и файлы:_
 _`.editorconfig`, `.gitattributes`._
